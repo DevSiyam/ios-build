@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1063656265390-3n7k66it1ngifi7lkt1b6bsha7cfkp8s.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1063656265390</string>
+    <string name="google_api_key" translatable="false">AIzaSyCutQqXV__wlUq31gS6z4rgV_uGNwKJj0Q</string>
+    <string name="google_app_id" translatable="false">1:1063656265390:android:9a62a554faa2e4ab04bf3f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCutQqXV__wlUq31gS6z4rgV_uGNwKJj0Q</string>
+    <string name="google_storage_bucket" translatable="false">wixify-ecf00.appspot.com</string>
+    <string name="project_id" translatable="false">wixify-ecf00</string>
+</resources>

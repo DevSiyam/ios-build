@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "D:\\wixify 2nd\\build\\app\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "D:\\wixify 2nd\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "D:\\wixify 2nd\\build\\app\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\wixify 2nd\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\wixify 2nd\\build\\app\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\wixify 2nd\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\wixify 2nd\\build\\app\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\wixify 2nd\\android\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\wixify 2nd\\build\\app\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "D:\\wixify 2nd\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "D:\\wixify 2nd\\build\\app\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "D:\\wixify 2nd\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "D:\\wixify 2nd\\build\\app\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\wixify 2nd\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\wixify 2nd\\build\\app\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\wixify 2nd\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\wixify 2nd\\build\\app\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\wixify 2nd\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\wixify 2nd\\build\\app\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\wixify 2nd\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\wixify 2nd\\build\\app\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\wixify 2nd\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\wixify 2nd\\build\\app\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\wixify 2nd\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\wixify 2nd\\build\\app\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "D:\\wixify 2nd\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "D:\\wixify 2nd\\build\\app\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\wixify 2nd\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\wixify 2nd\\build\\app\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\wixify 2nd\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\wixify 2nd\\build\\app\\intermediates\\merged_res\\debug\\xml_file_paths.xml.flat",
+        "source": "D:\\wixify 2nd\\android\\app\\src\\main\\res\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "D:\\wixify 2nd\\build\\app\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\wixify 2nd\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\wixify 2nd\\build\\app\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "D:\\wixify 2nd\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "D:\\wixify 2nd\\build\\app\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\wixify 2nd\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\wixify 2nd\\build\\app\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\wixify 2nd\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\wixify 2nd\\build\\app\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\wixify 2nd\\android\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\wixify 2nd\\build\\app\\intermediates\\merged_res\\debug\\drawable-v21_launch_background.xml.flat",
+        "source": "D:\\wixify 2nd\\android\\app\\src\\main\\res\\drawable-v21\\launch_background.xml"
+    },
+    {
+        "merged": "D:\\wixify 2nd\\build\\app\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "D:\\wixify 2nd\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "D:\\wixify 2nd\\build\\app\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\wixify 2nd\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\wixify 2nd\\build\\app\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\wixify 2nd\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\wixify 2nd\\build\\app\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "D:\\wixify 2nd\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "D:\\wixify 2nd\\build\\app\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "D:\\wixify 2nd\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "D:\\wixify 2nd\\build\\app\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "D:\\wixify 2nd\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "D:\\wixify 2nd\\build\\app\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "D:\\wixify 2nd\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_adaptive_back.png"
+    }
+]

@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\wixify 2nd\\build\\nb_utils\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v26\\values-v26.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\DCL\\.gradle\\caches\\transforms-3\\0a5e61a517e84b622d29d54fd2877941\\transformed\\appcompat-1.4.2\\res\\values-v26\\values-v26.xml",
+                    "from": {
+                        "startLines": "2,3,4,8,12,16",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,130,217,431,657,896",
+                        "endLines": "2,3,7,11,15,16",
+                        "endColumns": "74,86,12,12,12,92",
+                        "endOffsets": "125,212,426,652,891,984"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\wixify 2nd\\build\\nb_utils\\intermediates\\merged_res\\release\\values-v26\\values-v26.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\DCL\\.gradle\\caches\\transforms-3\\0a5e61a517e84b622d29d54fd2877941\\transformed\\appcompat-1.4.2\\res\\values-v26\\values-v26.xml",
+                    "from": {
+                        "startLines": "2,3,4,8,12,16",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,130,217,431,657,896",
+                        "endLines": "2,3,7,11,15,16",
+                        "endColumns": "74,86,12,12,12,92",
+                        "endOffsets": "125,212,426,652,891,984"
+                    }
+                }
+            ]
+        }
+    ]
+}

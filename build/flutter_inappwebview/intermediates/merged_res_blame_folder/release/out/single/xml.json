@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\wixify 2nd\\build\\flutter_inappwebview\\intermediates\\merged_res\\release\\xml\\provider_paths.xml",
+        "source": "C:\\Users\\DCL\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\flutter_inappwebview-5.7.2+3\\android\\src\\main\\res\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "D:\\wixify 2nd\\build\\flutter_inappwebview\\intermediates\\merged_res\\release\\xml\\image_share_filepaths.xml",
+        "source": "C:\\Users\\DCL\\.gradle\\caches\\transforms-3\\edd4d6287f00ad30bdecd64b28fe08aa\\transformed\\browser-1.4.0\\res\\xml\\image_share_filepaths.xml"
+    }
+]

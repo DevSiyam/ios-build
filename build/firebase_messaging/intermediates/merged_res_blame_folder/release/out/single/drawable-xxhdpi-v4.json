@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\wixify 2nd\\build\\firebase_messaging\\intermediates\\merged_res\\release\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "C:\\Users\\DCL\\.gradle\\caches\\transforms-3\\eb7cd5fcd6929d9d4b60d79a87f44bee\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\wixify 2nd\\build\\firebase_messaging\\intermediates\\merged_res\\release\\drawable-xxhdpi-v4\\googleg_disabled_color_18.png",
+        "source": "C:\\Users\\DCL\\.gradle\\caches\\transforms-3\\eb7cd5fcd6929d9d4b60d79a87f44bee\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable-xxhdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "D:\\wixify 2nd\\build\\firebase_messaging\\intermediates\\merged_res\\release\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "C:\\Users\\DCL\\.gradle\\caches\\transforms-3\\eb7cd5fcd6929d9d4b60d79a87f44bee\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\wixify 2nd\\build\\firebase_messaging\\intermediates\\merged_res\\release\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "C:\\Users\\DCL\\.gradle\\caches\\transforms-3\\eb7cd5fcd6929d9d4b60d79a87f44bee\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\wixify 2nd\\build\\firebase_messaging\\intermediates\\merged_res\\release\\drawable-xxhdpi-v4\\googleg_standard_color_18.png",
+        "source": "C:\\Users\\DCL\\.gradle\\caches\\transforms-3\\eb7cd5fcd6929d9d4b60d79a87f44bee\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable-xxhdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "D:\\wixify 2nd\\build\\firebase_messaging\\intermediates\\merged_res\\release\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "C:\\Users\\DCL\\.gradle\\caches\\transforms-3\\eb7cd5fcd6929d9d4b60d79a87f44bee\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    }
+]

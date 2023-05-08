@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\wixify 2nd\\build\\package_info_plus\\intermediates\\merged_res\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\DCL\\.gradle\\caches\\transforms-3\\66d65e3862c1771634bbd7738d565add\\transformed\\core-1.6.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\wixify 2nd\\build\\package_info_plus\\intermediates\\merged_res\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\DCL\\.gradle\\caches\\transforms-3\\66d65e3862c1771634bbd7738d565add\\transformed\\core-1.6.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\wixify 2nd\\build\\package_info_plus\\intermediates\\merged_res\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\DCL\\.gradle\\caches\\transforms-3\\66d65e3862c1771634bbd7738d565add\\transformed\\core-1.6.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\wixify 2nd\\build\\package_info_plus\\intermediates\\merged_res\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\DCL\\.gradle\\caches\\transforms-3\\66d65e3862c1771634bbd7738d565add\\transformed\\core-1.6.0\\res\\drawable\\notification_bg.xml"
+    }
+]

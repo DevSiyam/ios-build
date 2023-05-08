@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\wixify 2nd\\build\\google_mobile_ads\\intermediates\\merged_res\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\DCL\\.gradle\\caches\\transforms-3\\66d65e3862c1771634bbd7738d565add\\transformed\\core-1.6.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\wixify 2nd\\build\\google_mobile_ads\\intermediates\\merged_res\\release\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\DCL\\.gradle\\caches\\transforms-3\\66d65e3862c1771634bbd7738d565add\\transformed\\core-1.6.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\wixify 2nd\\build\\google_mobile_ads\\intermediates\\merged_res\\release\\layout\\browser_actions_context_menu_row.xml",
+        "source": "C:\\Users\\DCL\\.gradle\\caches\\transforms-3\\edd4d6287f00ad30bdecd64b28fe08aa\\transformed\\browser-1.4.0\\res\\layout\\browser_actions_context_menu_row.xml"
+    },
+    {
+        "merged": "D:\\wixify 2nd\\build\\google_mobile_ads\\intermediates\\merged_res\\release\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\DCL\\.gradle\\caches\\transforms-3\\66d65e3862c1771634bbd7738d565add\\transformed\\core-1.6.0\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "D:\\wixify 2nd\\build\\google_mobile_ads\\intermediates\\merged_res\\release\\layout\\browser_actions_context_menu_page.xml",
+        "source": "C:\\Users\\DCL\\.gradle\\caches\\transforms-3\\edd4d6287f00ad30bdecd64b28fe08aa\\transformed\\browser-1.4.0\\res\\layout\\browser_actions_context_menu_page.xml"
+    },
+    {
+        "merged": "D:\\wixify 2nd\\build\\google_mobile_ads\\intermediates\\merged_res\\release\\layout\\notification_action.xml",
+        "source": "C:\\Users\\DCL\\.gradle\\caches\\transforms-3\\66d65e3862c1771634bbd7738d565add\\transformed\\core-1.6.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\wixify 2nd\\build\\google_mobile_ads\\intermediates\\merged_res\\release\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\DCL\\.gradle\\caches\\transforms-3\\66d65e3862c1771634bbd7738d565add\\transformed\\core-1.6.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\wixify 2nd\\build\\google_mobile_ads\\intermediates\\merged_res\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\DCL\\.gradle\\caches\\transforms-3\\66d65e3862c1771634bbd7738d565add\\transformed\\core-1.6.0\\res\\layout\\notification_template_part_chronometer.xml"
+    }
+]

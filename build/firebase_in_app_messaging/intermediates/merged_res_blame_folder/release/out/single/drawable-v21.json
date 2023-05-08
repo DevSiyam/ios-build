@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\wixify 2nd\\build\\firebase_in_app_messaging\\intermediates\\merged_res\\release\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\DCL\\.gradle\\caches\\transforms-3\\2b1bd120120a256999646c2b3856a3ae\\transformed\\appcompat-1.1.0\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\wixify 2nd\\build\\firebase_in_app_messaging\\intermediates\\merged_res\\release\\drawable-v21\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\DCL\\.gradle\\caches\\transforms-3\\2b1bd120120a256999646c2b3856a3ae\\transformed\\appcompat-1.1.0\\res\\drawable-v21\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\wixify 2nd\\build\\firebase_in_app_messaging\\intermediates\\merged_res\\release\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\DCL\\.gradle\\caches\\transforms-3\\66d65e3862c1771634bbd7738d565add\\transformed\\core-1.6.0\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\wixify 2nd\\build\\firebase_in_app_messaging\\intermediates\\merged_res\\release\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\DCL\\.gradle\\caches\\transforms-3\\2b1bd120120a256999646c2b3856a3ae\\transformed\\appcompat-1.1.0\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\wixify 2nd\\build\\firebase_in_app_messaging\\intermediates\\merged_res\\release\\drawable-v21\\abc_list_divider_material.xml",
+        "source": "C:\\Users\\DCL\\.gradle\\caches\\transforms-3\\2b1bd120120a256999646c2b3856a3ae\\transformed\\appcompat-1.1.0\\res\\drawable-v21\\abc_list_divider_material.xml"
+    },
+    {
+        "merged": "D:\\wixify 2nd\\build\\firebase_in_app_messaging\\intermediates\\merged_res\\release\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\DCL\\.gradle\\caches\\transforms-3\\2b1bd120120a256999646c2b3856a3ae\\transformed\\appcompat-1.1.0\\res\\drawable-v21\\abc_edit_text_material.xml"
+    }
+]

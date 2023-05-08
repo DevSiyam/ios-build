@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\wixify 2nd\\build\\app\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-land\\values-land.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\DCL\\.gradle\\caches\\transforms-3\\7c7965187e4805491fc264cb34f3a1bf\\transformed\\appcompat-1.5.1\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\DCL\\.gradle\\caches\\transforms-3\\1c1fa8a0d2c5c6b96e44d7d9aeedb02f\\transformed\\jetified-firebase-inappmessaging-display-20.3.0\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,131,203,276",
+                        "endColumns": "75,71,72,71",
+                        "endOffsets": "126,198,271,343"
+                    },
+                    "to": {
+                        "startLines": "5,6,7,8",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "264,340,412,485",
+                        "endColumns": "75,71,72,71",
+                        "endOffsets": "335,407,480,552"
+                    }
+                }
+            ]
+        }
+    ]
+}

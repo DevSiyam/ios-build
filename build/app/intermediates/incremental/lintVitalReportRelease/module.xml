@@ -1,0 +1,25 @@
+<lint-module
+    format="1"
+    dir="D:\wixify 2nd\android\app"
+    name=":app"
+    type="APP"
+    maven="android:app:"
+    gradle="7.1.3"
+    buildFolder="D:\wixify 2nd\build\app"
+    bootClassPath="C:\Users\DCL\AppData\Local\Android\sdk\platforms\android-33\android.jar;C:\Users\DCL\AppData\Local\Android\sdk\build-tools\30.0.3\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-33">
+  <lintOptions
+      disable="InvalidPackage"
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true">
+    <severities>
+      <severity
+        id="InvalidPackage"
+        severity="IGNORE" />
+    </severities>
+  </lintOptions>
+  <variant name="release"/>
+</lint-module>
